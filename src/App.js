@@ -12,7 +12,7 @@ function App() {
           Tiger King?
         </p>
         <h1>
-          NO.
+          Episode 1
         </h1>
       </header>
     </div>
